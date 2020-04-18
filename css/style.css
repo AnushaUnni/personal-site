@@ -1,0 +1,134 @@
+body {
+  margin: 0;
+  text-align: center;
+  background-color: #EAF6f6;
+  font-family: "Caveat Brush";
+  color: #40514E;
+}
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: "Great Vibes";
+  font-size: 5.625rem;
+  color: #66bfbf;
+}
+
+h2 {
+  font-family: "Amita";
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: "Amita";
+  font-size: 2.5rem;
+  color: #11999e;
+  margin-bottom: 0px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 250px;
+  left: 200px;
+}
+
+.top-container {
+  position: relative;
+  top: 100px;
+  margin-bottom: 200px;
+}
+
+.profilepic {
+  width: 30%;
+  height: 30%;
+}
+
+a {
+  color: #11999e;
+  text-decoration: none;
+}
+
+a:hover{
+    color: #EAF6f6;
+}
+
+.copy-right{
+    color: #EAF6f6;
+    padding: 20px 0;
+}
+
+.skill-row{
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+
+.computer{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    margin-top:10px;
+}
+
+.chillies{
+    width: 25%;
+    float: right;
+}
+
+.profile{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+.contact-me{
+    width: 50%;
+    margin: 100px auto;
+    line-height: 2;
+}
+
+hr{
+    border-style: none;
+    border-top-style: dotted;   
+    width: 10%;
+    border-width: 5px;
+    border-color: #DBDBDB;
+    height: 0%;
+    margin: 100px auto;
+}
+
+.btn{
+    border-top: 20px;
+    padding: 20px;
+    background-color: rgb(7, 166, 214);
+    border-radius: 31%;
+    color: white;
+    text-decoration: none;
+}
+
+.btn:hover{
+    border-top: 20px;
+    padding: 20px;
+    background-color: rgb(14, 85, 85);
+    border-radius: 31%;
+    color: white;
+    text-decoration: none;
+}
+
+.exp-desc{
+    font-family: "Amita";
+    font-size: 1.5rem;
+    color: #11999e;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0 20px;
+}
